@@ -1,0 +1,11 @@
+{
+  "album_expected": 100,
+  "album_indexed": 100,
+  "articles_ok": 100,
+  "articles_failed": 0,
+  "covers_ok": 100,
+  "total_clean_chars": 234989,
+  "total_inline_images": 866,
+  "failed_articles": [],
+  "generated_at": "2026-07-15T00:44:27.132397+08:00"
+}
